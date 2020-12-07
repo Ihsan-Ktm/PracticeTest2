@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54153" started-at="2020-12-07T17:20:53 PKT" finished-at="2020-12-07T17:21:47 PKT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54153" started-at="2020-12-07T17:20:53 PKT" finished-at="2020-12-07T17:21:47 PKT">
+      <class name="tests.DemoqaTests">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:tests.DemoqaTests@553a3d88]" name="SetUp" is-config="true" duration-ms="20535" started-at="2020-12-07T17:20:53 PKT" finished-at="2020-12-07T17:21:14 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verifyFormSubmission()[pri:0, instance:tests.DemoqaTests@553a3d88]" name="verifyFormSubmission" duration-ms="8179" started-at="2020-12-07T17:21:14 PKT" finished-at="2020-12-07T17:21:22 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFormSubmission -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:tests.DemoqaTests@553a3d88]" name="SetUp" is-config="true" duration-ms="19554" started-at="2020-12-07T17:21:22 PKT" finished-at="2020-12-07T17:21:41 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verifyRequiredField()[pri:1, instance:tests.DemoqaTests@553a3d88]" name="verifyRequiredField" duration-ms="5823" started-at="2020-12-07T17:21:41 PKT" finished-at="2020-12-07T17:21:47 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRequiredField -->
+      </class> <!-- tests.DemoqaTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
